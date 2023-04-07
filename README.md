@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 *`DataCenterTech. Gamer. Student.`*
 -------------------------------
 
-Data Center technician by day, gamer by night. Continuously learning to hopefully find my way to SDE.
+Data Center technician by day, gamer by night. Continuously learning to hopefully find my way to System Development Engineer.
 
 * 🌍  I'm based in Bay Area
 * ✉️  You can contact me at [beartraphh@gmail.com](mailto:beartraphh@gmail.com)
-* 🧠  I'm learning Administering Linux, Python, GCP Fundamentals
+* 🧠  I'm currently learning more about Linux, Networking, Python, and GCP Fundamentals
 
 
 ### Socials
